@@ -14,7 +14,7 @@ Welcome to the University Registration API Front-End project! This front-end sys
 To explore and interact with the University Registration API through the front-end system, follow these steps:
 
 1. Clone the project repository:
-`git clonehttps://github.com/kennethjohnr/university_registration_system.git`
+`git clone https://github.com/kennethjohnr/university_registration_system.git`
 
 2. Install project dependencies:
 `npm install`
